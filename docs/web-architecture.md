@@ -20,3 +20,6 @@ The current architecture of Open-Registry looks something like this:
 
 - dashboard.open-registry.dev - Grafana Public Dashboard
   - publically accessible dashboard
+
+
+
