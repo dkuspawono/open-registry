@@ -45,3 +45,4 @@ want so, not because a company needs to improve profits.
 - Cryptographically signed packages
 - Decentralized hosting of modules where many registry operators can contribute to the overall performance and stability
 - To be adopted by OpenJS Foundation (or similar)
+
