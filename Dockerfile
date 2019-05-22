@@ -9,3 +9,4 @@ RUN lein deps
 COPY . /app
 
 CMD lein run
+
